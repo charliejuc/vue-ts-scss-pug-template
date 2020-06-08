@@ -1,4 +1,5 @@
 # vue-typescript
+Template with vue, typescript, sass and pug installed.
 
 ## Project setup
 ```
