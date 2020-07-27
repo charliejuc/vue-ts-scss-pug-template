@@ -22,6 +22,8 @@ module.exports = {
         '@typescript-eslint/indent': ['off'],
         'prettier/prettier': 'off',
         'space-before-function-paren': 'off',
-        '@typescript-eslint/space-before-function-paren': ['off']
+        '@typescript-eslint/space-before-function-paren': ['off'],
+        '@typescript-eslint/member-delimiter-style': ['off'],
+        '@typescript-eslint/no-non-null-assertion': ['off']
     }
 }
